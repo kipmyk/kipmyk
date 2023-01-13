@@ -1,4 +1,6 @@
-### Howdy 👋, I'm Mike - a Professional Telecom & Electrical Engineer, Problem Solver, and WordPress Expert.
+## Who I am 🤔
+
+Howdy 👋, I'm Mike - a Professional Telecom & Electrical Engineer, Problem Solver, and WordPress Expert.
 
 ### 📈 GitHub Stats
 
