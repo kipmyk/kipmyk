@@ -4,4 +4,4 @@ Howdy 👋, I'm Mike Kipruto - a Professional Telecom & Electrical Engineer, Pro
 
 I help build and maintain parts of the Web, with a particular focus on WordPress.
 
-Follow me on X(Twitter) [@kipmyk](https://x.com/intent/follow?screen_name=kipmyk), and connect on LinkedIn [@kipmyk](https://www.linkedin.com/in/kipmyk/).
+Follow me on X(Twitter) [@itsMikeKipruto](https://x.com/intent/follow?screen_name=itsMikeKipruto), and connect on LinkedIn [Mike Kipruto](https://www.linkedin.com/in/itsMikeKipruto/).
