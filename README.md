@@ -4,7 +4,7 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kipmyk.kipmyk&style=flat-square)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kipmyk.kipmyk&style=flat-square) -->
 
 ## 💼 Professional Summary
 
