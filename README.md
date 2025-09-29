@@ -24,6 +24,12 @@ As part of my commitment to knowledge sharing, I regularly publish insights and 
 - **AI/ML:** Exploring TensorFlow, scikit-learn, data analysis
 - **Other:** Performance optimization, technical writing, solution architecture
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=kipmyk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kipmyk&theme=dark&hide_border=false)<br/><br/>
+![Top languages wide](https://github-readme-stats.vercel.app/api/top-langs/?username=kipmyk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=950)
+
 ---
 
 ## 🌍 Online Presence
