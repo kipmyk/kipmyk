@@ -1,44 +1,48 @@
 # Mike Kipruto
 
-**Telecom and Electrical Engineer | AI/ML Enthusiast | WordPress Specialist | Problem Solver**
+**Electrical & Telecommunications Engineer | WordPress Systems Engineer | Growth & Automation Builder**
 
 ---
 
 ## 💼 Professional Summary
 
-I am a Professional Engineer specializing in telecom systems, computer networks, and WordPress development. I thrive on breaking down complex problems, simplifying solutions, and empowering teams and individuals to succeed—whether through robust systems or insightful technical content.
+I am an Electrical and Telecommunications Engineer working at the intersection of WordPress systems, automation, and growth engineering.
 
-I am passionate about continuous learning and innovation. My recent focus is on leveraging machine learning and artificial intelligence to solve real-world challenges and enhance web technologies.
+My work focuses on building and scaling systems inside the WordPress ecosystem, including plugins, integrations, and growth infrastructure used in production environments.
 
-As part of my commitment to knowledge sharing, I regularly publish insights and tutorials on [mike.co.ke/ai](https://mike.co.ke/ai/), covering AI, machine learning, and engineering trends.
+I currently work with large-scale WordPress products where I contribute to system design, automation workflows, and ecosystem growth initiatives.
 
----
+Previously, I worked in telecom and network engineering, focusing on infrastructure reliability, system stability, and secure communications systems.
 
-## 🛠️ Technical Skills
-
-- Languages: PHP, JavaScript, Python  
-- Web Technologies: WordPress, REST APIs, HTML5, CSS3  
-- Engineering: Telecom systems, computer networks, systems integration  
-- AI/ML: Exploring TensorFlow, scikit-learn, data analysis  
-- Other: Performance optimization, server administration, technical writing, solution architecture  
+I also build and maintain WordPress plugins and open-source tools, and contribute to projects across the ecosystem.
 
 ---
 
-## 🌍 Online Presence
+## 🛠️ Technical Focus
 
-- [**mike.co.ke**](https://mike.co.ke) – Official website covering WordPress development, AI advancements, engineering insights, tutorials, and personal growth content.  
-- [WordPress Section](https://mike.co.ke/wordpress/) – WordPress guides, projects, hosting tutorials, and troubleshooting resources.  
-- [AI Section](https://mike.co.ke/ai/) – AI, machine learning, and engineering insights.
+- WordPress architecture and plugin development  
+- PHP, JavaScript, Python  
+- System automation and integrations  
+- REST APIs and backend systems  
+- Performance optimization and scalable design  
+- Network and telecom systems engineering  
+
+---
+
+## 🌍 Work & Projects
+
+- https://mike.co.ke – Engineering, WordPress systems, and technical writing  
+- https://mike.co.ke/wordpress/ – WordPress systems and implementation guides  
+- https://mike.co.ke/ai/ – Notes on AI, systems thinking, and automation  
 
 ---
 
 ## 🔗 Connect
 
-[![X (Twitter)](https://img.shields.io/badge/X-@itsMikeKipruto-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/intent/follow?screen_name=itsMikeKipruto)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mike%20Kipruto-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsMikeKipruto/)  
-[![Facebook](https://img.shields.io/badge/Facebook-itsMikeKipruto-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/itsMikeKipruto/)  
-[![Threads](https://img.shields.io/badge/Threads-@itsMikeKipruto-000?style=flat&logo=threads&logoColor=white)](https://threads.net/@itsMikeKipruto)
+- LinkedIn: https://www.linkedin.com/in/itsMikeKipruto/  
+- X: https://x.com/itsMikeKipruto  
+- Website: https://mike.co.ke  
 
 ---
 
-Thanks for visiting my profile. Interested in collaboration, technical consulting, or learning more? Explore my sites, connect on socials, or drop me a message.
+Building systems that scale. Reducing unnecessary complexity. Shipping clean architecture.
